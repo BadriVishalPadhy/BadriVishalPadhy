@@ -1,12 +1,10 @@
 # 💫 About Me:<br>
-##Full Stack Dev
 💻 Software Engineer sharing about my journey and learnings in tech.<br>
 🧑🏼‍🎓 Studying Computer Science at the XIM University , India.<br>
 💖 Contributing to Open Source Projects is always been a goal to me.<br>
 💭 Currently learning about Full-stack development and Devops.<br>
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1OGJocmdxYnV1azlsanB4ZDh0d2Jqamg1dmU1b3N4cm0xbW82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif))
-
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1OGJocmdxYnV1azlsanB4ZDh0d2Jqamg1dmU1b3N4cm0xbW82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/badri-vishal-padhy-9257a1269/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/visha19430?t=TKA7XqOAswShnWwtZh1O6g&s=09) 
