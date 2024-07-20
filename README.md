@@ -4,7 +4,7 @@
 💖 Contributing to Open Source Projects is always been a goal to me.<br>
 💭 Currently learning about Full-stack development and Devops.<br>
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1OGJocmdxYnV1azlsanB4ZDh0d2Jqamg1dmU1b3N4cm0xbW82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif)<br>
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhweThhaTZ2YmNnYWtnd2o1ajhuYW9lOTlvNXpnY2tiOXNkNWVzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/badri-vishal-padhy-9257a1269/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/visha19430?t=TKA7XqOAswShnWwtZh1O6g&s=09) 
