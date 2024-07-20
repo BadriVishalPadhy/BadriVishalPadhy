@@ -1,5 +1,6 @@
-# 💫 About Me:
-💻 Software Engineer sharing about my journey and learnings in tech.<br>🧑🏼‍🎓 Studying Computer Science at the XIM University , India.<br>💭 Currently learning about Full-stack development and Devops.<br>
+# 💫 About Me:<br>
+##Full Stack Dev
+💻 Software Engineer sharing about my journey and learnings in tech.<br>🧑🏼‍🎓 Studying Computer Science at the XIM University , India.<br> Contributing to Open Source Projects is always been a goal to me.💭 Currently learning about Full-stack development and Devops.<br>
 
 
 ## 🌐 Socials:
