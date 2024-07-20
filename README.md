@@ -2,7 +2,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<a href="<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kz6cm1kKle2MYkHtJF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/moodman-kz6cm1kKle2MYkHtJF">via GIPHY</a></p>" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
