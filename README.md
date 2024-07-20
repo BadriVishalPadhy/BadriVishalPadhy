@@ -12,7 +12,7 @@
 import { Person } from "indonesia";
 
 new Person({
-  name: "Deri Kurniawan",
+  name: "Badri Vishal Padhy",
   title: "Full Stack Developer",
   email: "deri.netuchi@gmail.com",
   website: "https://deri.my.id",
