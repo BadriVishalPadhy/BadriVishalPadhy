@@ -6,7 +6,7 @@
 # 💫 About Me:<br>
 💻 Software Engineer sharing about my journey and learnings in tech.<br>
 🧑🏼‍🎓 Studying Computer Science at the XIM University , India.<br>
-💖 Contributing to Open Source Projects is always been a goal to me.<br>
+💖 Contributing to Open Source Projects.<br>
 💭 Currently learning about Full-stack development and Devops.<br>
 
 
